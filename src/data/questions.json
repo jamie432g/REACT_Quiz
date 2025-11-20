@@ -1,0 +1,10 @@
+{
+    "stage1":    {
+        "How many timezones are there in Russia? ": ["11","8","1","3"],
+        "What was the Turkish Capital City in 1923? ": ["Ankara", "Istanbul", "Bursa", "Konya"]
+             },
+    "stage2": {
+        "Who was the lead singer of Black Sabbath in 1980? ": ["Ronnie. J. Dio", "Ozzy Osbourne", "Dave Walker", "Ian Gillan"],
+        "What year did Taylor Swift make her first album? ": ["2006","2008","2002","2005"]
+        }
+}
